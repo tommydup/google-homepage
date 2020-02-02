@@ -8,16 +8,6 @@
 	right: 45px;
 }
 
-.topRight {
-	position: absolute;
-	right: 50px;
-	top: 10px;
-
-	font-size: 13px;
-	font-family: "Arial", "Sans-serif";
-	color: DimGray;
-}
-
 #searchBar {
 	position: absolute;
 	left: 640px;
