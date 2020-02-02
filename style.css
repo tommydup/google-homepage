@@ -1,0 +1,71 @@
+#logo {
+	margin: 300px 750px;
+}
+
+#apps {
+	position: absolute;
+	top: 24px;
+	right: 45px;
+}
+
+.topRight {
+	position: absolute;
+	right: 50px;
+	top: 10px;
+
+	font-size: 13px;
+	font-family: "Arial", "Sans-serif";
+	color: DimGray;
+}
+
+#searchBar {
+	position: absolute;
+	left: 640px;
+	top: 430px;
+	width: 500px;
+	height: 30px;
+	border: 1px solid lightgray;
+	border-radius: 25px;
+	padding: 4px 20px;
+}
+	
+#searchButton {	
+	position: absolute;
+	left: 770px;
+	top: 500px;
+	padding: 3px;
+}
+
+
+#luckyButton {
+	position: absolute;
+	left: 910px;
+	top: 500px;
+	padding: 3px;
+}
+
+#navBar li {
+	display: inline;
+	padding: 8px;
+	font-size: 13px;
+	font-family: "Arial", "Sans-serif";
+	color: DimGray;
+}
+
+	.left {
+	    position: relative;
+	    bottom: 705px;
+	    right: 20px;
+	}
+
+	.right {
+	    position: relative;
+	    bottom: 705px;	
+	    left: 1500px;
+	}
+
+	
+
+
+
+
